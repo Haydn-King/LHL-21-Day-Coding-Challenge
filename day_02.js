@@ -1,3 +1,7 @@
+// ===========================================
+// Challenge #2 - One small step at a time
+// ===========================================
+
 /*
 Registering new astronauts was handled manually in previous missions but it's taking too much time.
 Knowing that the astronaut information is already listed in a data set, you propose to optimize that

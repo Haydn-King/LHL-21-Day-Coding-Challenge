@@ -1,3 +1,7 @@
+// ===========================================
+// Challenge #3 - What’s in the box?
+// ===========================================
+
 /*
 Your task is to create a function that will take the gauge object
 as a parameter, and will return true if the current value is between
